@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            FIB Calculator Version 2
+            FIB Calculator Version KUBERNETES!
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
